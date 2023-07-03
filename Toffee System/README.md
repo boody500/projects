@@ -7,4 +7,4 @@ the Implement the parts of class diagram (found in toffee SDS folder) related to
 (3) shopping for items and adding them to cart (to make the user able to order like any online store),
 (4) making an order to be paid upon delivery in cash. Closing the order when delivered.
 
-tools used : java - microsoft SQl.. 
+tools used : java - microsoft SQl. 
